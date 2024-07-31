@@ -1,0 +1,44 @@
+1673902978903	geckodriver	INFO	Listening on 127.0.0.1:58127
+/snap/firefox/current/firefox.launcher: 46: exec: /snap/pycharm-community/312/usr/lib/firefox/firefox: not found
+1673902978909	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "56577" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSGXR1s"
+/snap/firefox/current/firefox.launcher: 46: exec: /snap/pycharm-community/312/usr/lib/firefox/firefox: not found
+1673903105902	geckodriver	INFO	Listening on 127.0.0.1:35773
+/snap/firefox/current/firefox.launcher: 46: exec: /snap/pycharm-community/312/usr/lib/firefox/firefox: not found
+1673903105907	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "48239" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYy9vCS"
+/snap/firefox/current/firefox.launcher: 46: exec: /snap/pycharm-community/312/usr/lib/firefox/firefox: not found
+1673903198830	geckodriver	INFO	Listening on 127.0.0.1:51315
+/snap/firefox/current/firefox.launcher: 46: exec: /snap/pycharm-community/312/usr/lib/firefox/firefox: not found
+1673903199240	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "57351" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAbT1PQ"
+/snap/firefox/current/firefox.launcher: 46: exec: /snap/pycharm-community/312/usr/lib/firefox/firefox: not found
+1673903217880	geckodriver	INFO	Listening on 127.0.0.1:53573
+/snap/firefox/current/firefox.launcher: 46: exec: /snap/pycharm-community/312/usr/lib/firefox/firefox: not found
+1673903218274	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "52823" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJqqZWH"
+/snap/firefox/current/firefox.launcher: 46: exec: /snap/pycharm-community/312/usr/lib/firefox/firefox: not found
+1673903231927	geckodriver	INFO	Listening on 127.0.0.1:41739
+/snap/firefox/current/firefox.launcher: 46: exec: /snap/pycharm-community/312/usr/lib/firefox/firefox: not found
+1673903231932	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "36231" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqL14Xm"
+/snap/firefox/current/firefox.launcher: 46: exec: /snap/pycharm-community/312/usr/lib/firefox/firefox: not found
+1673905387583	geckodriver	INFO	Listening on 127.0.0.1:56533
+/snap/firefox/current/firefox.launcher: 46: exec: /snap/pycharm-community/312/usr/lib/firefox/firefox: not found
+1673905387586	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "51393" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewLTkH8"
+/snap/firefox/current/firefox.launcher: 46: exec: /snap/pycharm-community/312/usr/lib/firefox/firefox: not found
+1673906217023	geckodriver	INFO	Listening on 127.0.0.1:41349
+/snap/firefox/current/firefox.launcher: 46: exec: /snap/pycharm-community/312/usr/lib/firefox/firefox: not found
+1673906217529	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "53823" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledP6pO7"
+/snap/firefox/current/firefox.launcher: 46: exec: /snap/pycharm-community/312/usr/lib/firefox/firefox: not found
+1673906230640	geckodriver	INFO	Listening on 127.0.0.1:47349
+/snap/firefox/current/firefox.launcher: 46: exec: /snap/pycharm-community/312/usr/lib/firefox/firefox: not found
+1673906231147	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "55601" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilek9DsKb"
+/snap/firefox/current/firefox.launcher: 46: exec: /snap/pycharm-community/312/usr/lib/firefox/firefox: not found
+1673906302120	geckodriver	INFO	Listening on 127.0.0.1:48569
+/snap/firefox/current/firefox.launcher: 46: exec: /snap/pycharm-community/312/usr/lib/firefox/firefox: not found
+1673906302625	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "36443" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileU1Xcvq"
+/snap/firefox/current/firefox.launcher: 46: exec: /snap/pycharm-community/312/usr/lib/firefox/firefox: not found
+1673906314840	geckodriver	INFO	Listening on 127.0.0.1:41675
+/snap/firefox/current/firefox.launcher: 46: exec: /snap/pycharm-community/312/usr/lib/firefox/firefox: not found
+1673906315345	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "33525" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXoaRdm"
+/snap/firefox/current/firefox.launcher: 46: exec: /snap/pycharm-community/312/usr/lib/firefox/firefox: not found
+1673906399190	geckodriver	INFO	Listening on 127.0.0.1:40239
+/snap/firefox/current/firefox.launcher: 46: exec: /snap/sublime-text/116/usr/lib/firefox/firefox: not found
+1673906399705	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "33879" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0QnV9a"
+/snap/firefox/current/firefox.launcher: 46: exec: /snap/sublime-text/116/usr/lib/firefox/firefox: not found
